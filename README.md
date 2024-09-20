@@ -5,6 +5,7 @@
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=257FA7&width=435&lines=%C3%BCber+mich+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+Hallo! Mein Name ist Hakan Eren, ich bin ein Junior Mobile Developer mit Leidenschaft für sauberen Code und schönes Design. Ich stehe am Anfang meiner Reise in der Mobile App-Entwicklung und arbeite ständig daran, mich in diesem Bereich weiterzuentwickeln. Ich habe das Weiterbildungs-Programm am Snytax Institut abgeschlossen und arbeite weiterhin daran, meine Kenntnisse und Fähigkeiten auszubauen.
 
 #
 
