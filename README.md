@@ -26,4 +26,3 @@ Hallo! Mein Name ist **Hakan Eren**, ich bin ein **Junior Mobile Developer** mit
 
 #
 
-![Hakan318](Mockup).jpg
