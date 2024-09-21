@@ -23,3 +23,7 @@ Hallo! Mein Name ist **Hakan Eren**, ich bin ein **Junior Mobile Developer** mit
 - Discord
 - GitHub 
 - Microsoft 365
+
+#
+
+![Hakan318](Mockup).jpg
