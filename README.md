@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=639DD5&repeat=false&width=435&lines=meine+projekte)](https://git.io/typing-svg)
 
+soon.
+
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=639DD5&repeat=false&width=435&lines=%C3%BCber+mich+)](https://git.io/typing-svg)
