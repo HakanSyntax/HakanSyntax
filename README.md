@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=Meine+Projekte)](https://git.io/typing-svg)
 
-soon.
+**soon.**
 
 #
 
@@ -14,11 +14,12 @@ soon.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=Tech+stack)](https://git.io/typing-svg)
 
-- MacOS/ Windows
-- Xcode/ SwiftUI/ Vapor/ Swift  
+- **MacOS**/ Windows
+- **Xcode/ SwiftUI/ Vapor/ Swift**  
 - Android Studio/ XML- UI/ Jetpack Compose/ Kotlin
 - Flutter/ Dart
-- Figma
+- HTML&CSS
+- **Figma**
 - Material UI 
 - Adobe
 - Canva
