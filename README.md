@@ -16,7 +16,8 @@ soon.
 
 - MacOS/ Windows
 - Xcode/ SwiftUI/ Vapor/ Swift  
-- Android Studio/ XML- UI/ Jetpack Compose/ Kotlin 
+- Android Studio/ XML- UI/ Jetpack Compose/ Kotlin
+- Flutter/ Dart
 - Figma
 - Material UI 
 - Adobe
