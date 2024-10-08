@@ -26,5 +26,11 @@ soon.
 - GitHub 
 - Microsoft 365
 
+#
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=kontakt)](https://git.io/typing-svg)
+
+hknrn40@gmail.com
+
 
 
