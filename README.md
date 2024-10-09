@@ -4,11 +4,11 @@
 
 **Magic World Applikation iOS (SWIFT/ SWIFT- UI) soon** 
 
-**Magic World Applikation Android (KOTLIN/ JETPACK COMPOSE) soon**
-
 [**Magic World Applikation Android (KOTLIN/ XML- UI)**](https://github.com/HakanSyntax/MagicWorldAndroid)
 
-**Magic World Applikation Flutter (FLUTTER/ DART) soon** 
+**Magic World Applikation Android (KOTLIN/ JETPACK COMPOSE) soon**
+
+**Magic World Applikation Hybrid (FLUTTER/ DART) soon** 
 
 #
 
