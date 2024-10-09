@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=Meine+Projekte)](https://git.io/typing-svg)
 
-[**Android.**](https://github.com/HakanSyntax/MagicWorldAndroid)
+**Magic World Applikation iOS (soon)** 
+
+[**Magic World Applikation Android**](https://github.com/HakanSyntax/MagicWorldAndroid)
+
+**Magic World Applikation Flutter (soon)** 
 
 #
 
