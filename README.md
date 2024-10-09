@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=Meine+Projekte)](https://git.io/typing-svg)
 
-**Magic World Applikation iOS (soon)** 
+**Magic World Applikation iOS (SWIFT/ SWIFT- UI) soon** 
 
-[**Magic World Applikation Android**](https://github.com/HakanSyntax/MagicWorldAndroid)
+**Magic World Applikation Android (KOTLIN/ JETPACK COMPOSE) soon**
 
-**Magic World Applikation Flutter (soon)** 
+[**Magic World Applikation Android (KOTLIN/ XML- UI)**](https://github.com/HakanSyntax/MagicWorldAndroid)
+
+**Magic World Applikation Flutter (FLUTTER/ DART) soon** 
 
 #
 
