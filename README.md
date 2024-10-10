@@ -8,8 +8,6 @@
 
 **Magic World Applikation Android (JETPACK COMPOSE/ KOTLIN) soon**
 
-**Magic World Applikation Hybrid (FLUTTER/ DART) soon** 
-
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=%C3%BCber+mich)](https://git.io/typing-svg)
@@ -23,7 +21,6 @@
 - **MacOS**/ Windows
 - **Xcode/ SwiftUI/ Vapor/ Swift**  
 - Android Studio/ XML- UI/ Jetpack Compose/ Kotlin
-- Flutter/ Dart
 - HTML&CSS
 - **Figma**
 - Material UI 
