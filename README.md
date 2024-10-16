@@ -20,16 +20,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=Tech+stack)](https://git.io/typing-svg)
 
-- **MacOS**/ Windows
-- **Xcode/ SwiftUI/ Vapor/ Swift**  
+- MacOS/ Windows
+- Xcode/ SwiftUI/ Vapor/ Swift
 - Android Studio/ XML- UI/ Jetpack Compose/ Kotlin
-- HTML&CSS
-- **Figma**
+- IntelliJIDEA
+- Retrofit API
+- MVVM
+- Object-Oriented Programming (OOP)
+- Firebase
+- Figma
 - Material UI 
-- Adobe
+- Adobe Creative Cloud
 - Canva
 - Slack
 - Discord
+- Git
 - GitHub 
 - Microsoft 365
 
