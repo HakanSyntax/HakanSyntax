@@ -10,7 +10,7 @@
 
 [**OnlyArt Applikation Moodboard (FIGMA)**](https://github.com/HakanSyntax/Moodboard)
 
-[**ChildrensBook German (FIGMA)**](https://github.com/HakanSyntax/ChildrensBook)
+[**ChildrensBook (FIGMA)**](https://github.com/HakanSyntax/ChildrensBook)
 
 #
 
