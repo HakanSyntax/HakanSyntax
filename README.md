@@ -8,7 +8,7 @@
 
 [**OnlyArt Applikation Moodboard (FIGMA)**](https://github.com/HakanSyntax/Moodboard)
 
-[**ChildrensBook (FIGMA)**](https://www.paperturn-view.com/hknrn40/childsbook?pid=ODg8840503)
+[**ChildrensBook (FIGMA)**](https://www.paperturn-view.com/hknrn40/prinzessin-eleanor-und-die-macht-der-gemeinschaft?pid=ODg8840538&v=1.1)
 
 #
 
