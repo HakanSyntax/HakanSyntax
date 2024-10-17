@@ -6,8 +6,6 @@
 
 [**Magic World Applikation Android (XML- UI/ KOTLIN)**](https://github.com/HakanSyntax/MagicWorldAndroid)
 
-**Magic World Applikation Android (JETPACK COMPOSE/ KOTLIN) in progress**
-
 [**OnlyArt Applikation Moodboard (FIGMA)**](https://github.com/HakanSyntax/Moodboard)
 
 [**ChildrensBook (FIGMA)**](https://github.com/HakanSyntax/ChildrensBook)
@@ -30,6 +28,7 @@
 - MVVM
 - Object-Oriented Programming (OOP)
 - Firebase
+- HTML/ CSS
 - Figma
 - Material UI 
 - Adobe Creative Cloud
