@@ -33,6 +33,7 @@
 - Material UI 
 - Adobe Creative Cloud
 - Canva
+- Miro
 - Slack
 - Discord
 - Git
