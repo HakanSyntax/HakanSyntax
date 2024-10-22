@@ -8,8 +8,6 @@
 
 [**OnlyArt Applikation Moodboard (FIGMA)**](https://github.com/HakanSyntax/Moodboard)
 
-[**ChildsBook (FIGMA)**](https://www.paperturn-view.com/hknrn40/prinzessin-eleanor-und-die-macht-der-gemeinschaft?pid=ODg8840538&v=1.1)
-
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=%C3%BCber+mich)](https://git.io/typing-svg)
