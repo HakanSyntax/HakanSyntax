@@ -26,6 +26,7 @@
 - MVVM
 - Object-Oriented Programming (OOP)
 - Firebase
+- Postman
 - Figma
 - Material UI 
 - Adobe Creative Cloud
