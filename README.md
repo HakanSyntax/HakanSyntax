@@ -1,6 +1,4 @@
-[PDF-Datei anzeigen](./pfad/zur/Hakan-Eren-Kurszertifikat.pdf)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=%C3%BCber+mich)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=29&pause=1000&color=A35213&repeat=false&width=435&lines=%C3%BCber+mich)](https://git.io/typing-svg)
 
 **Hallo! Mein Name ist Hakan Eren, ich bin ein Junior Mobile Developer mit Leidenschaft für sauberen Code und schönes Design. Das Weiterbildungs-Programm am Snytax Institut habe ich erfolgreich abgeschlossen und ich bemühe mich weiterhin, meine Kenntnisse und Fähigkeiten auszubauen.**
 
